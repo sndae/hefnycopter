@@ -1,0 +1,13 @@
+#summary One-sentence summary of this page.
+
+= Introduction =
+
+This page is a track log of project status.
+
+= Details =
+
+  version 0.6 is stable and I used it in WikiWordLink
+[http://www.youtube.com/watch?v=55Ab4BfcQss&feature=player_detailpage].
+
+
+  Currently there is a new branch which is version 2.0 This is a new version compatible with the new KKv2.0 board. This [art is still under developing.
