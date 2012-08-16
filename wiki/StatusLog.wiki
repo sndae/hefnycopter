@@ -1,4 +1,5 @@
 #summary One-sentence summary of this page.
+#labels hefnycopter
 
 = Introduction =
 
@@ -6,8 +7,12 @@ This page is a track log of project status.
 
 = Details =
 
-  version 0.6 is stable and I used it in WikiWordLink
+
+  *version 0.6* is stable and I used it on YouTube
 [http://www.youtube.com/watch?v=55Ab4BfcQss&feature=player_detailpage].
 
+---
+any possible updates for the 0.6 version will be range from 0.6.x.x to 1.9.x.x  starting from version 2 this is a new code for the new board.
+---
 
   Currently there is a new branch which is version 2.0 This is a new version compatible with the new KKv2.0 board. This [art is still under developing.
