@@ -21,3 +21,7 @@ This page is a track log of project status.
  This is designed for *KK2 board*.
  Now I finished most of stability software issues...a prerelease test can be found here on http://www.youtube.com/watch?v=BknlTkF9ZOQ
  I am tuning some UI issues in the LCD and updating the manual in order to be able to product a proper release.
+*06 Oct 2012:*
+1- XBEE integration is finished and tested, also the Windows application that receives data.
+2- Buddy mode has been implemented to allow concurrent two pilots to fly quadcopter, as a trainee and trainer. You can also use this feature for UAV test.
+   
