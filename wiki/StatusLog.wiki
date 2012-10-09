@@ -19,6 +19,7 @@ This page is a track log of project status.
      also UI fix -suggested by a friend- when arming LED blinks based
 on quadcopter mode either Plus or X.
        
+------------------------------------------------------------------------
 
 ==HefnyCopter2==
 
