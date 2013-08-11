@@ -1,32 +1,4 @@
-#summary One-sentence summary of this page.
-#labels hefnycopter
+#labels hefnycopter,quadcopter,usermanual
+Kindly refer to this link for full details.
 
-= Introduction =
-
-This page is a track log of project status.
-
-= Details =
-
-
-  * version 0.6 * is stable and I used it on YouTube
-[http://www.youtube.com/watch?v=55Ab4BfcQss&feature=player_detailpage].
-  
-  * version 0.6.2 * fix a bug in Gyro Reverse.
-
-  Currently there is a new branch *HefnyCopter2* This is a new version compatible with the new *KKv2.0 board*. This branch is still under developing.
-
-  * version 0.6.5 * Complementary filter for Gyro are applied.
-     also UI fix -suggested by a friend- when arming LED blinks based
-on quadcopter mode either Plus or X.
-       
-------------------------------------------------------------------------
-
-==HefnyCopter2==
-
- This is designed for *KK2 board*.
- Now I finished most of stability software issues...a prerelease test can be found here on http://www.youtube.com/watch?v=BknlTkF9ZOQ
- I am tuning some UI issues in the LCD and updating the manual in order to be able to product a proper release.
-*06 Oct 2012:*
-1- XBEE integration is finished and tested, also the Windows application that receives data.
-2- Buddy mode has been implemented to allow concurrent two pilots to fly quadcopter, as a trainee and trainer. You can also use this feature for UAV test.
-   
+[http://hefnycopter.net/index.php?option=com_content&view=category&id=8&Itemid=102].
